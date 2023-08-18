@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.46bd7c4d.css",
+    "main.js": "/my-portfolio/static/js/main.1045e5f0.js",
+    "static/media/about.jpg": "/my-portfolio/static/media/about.57d5d6c562f01e37adab.jpg",
+    "static/media/Wan Xin_Resume.pdf": "/my-portfolio/static/media/Wan Xin_Resume.84760a149f7fbbdfc0f7.pdf",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.098383bdf6a8f205aee1.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.46bd7c4d.css.map": "/my-portfolio/static/css/main.46bd7c4d.css.map",
+    "main.1045e5f0.js.map": "/my-portfolio/static/js/main.1045e5f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46bd7c4d.css",
+    "static/js/main.1045e5f0.js"
+  ]
+}
