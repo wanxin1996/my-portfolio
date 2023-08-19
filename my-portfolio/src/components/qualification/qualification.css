@@ -17,7 +17,7 @@
 }
 
 .qualification__button:hover {
-    color: var(--title-color-dark);
+    color: var(--ten);
 }
 
 .qualification__icon {
@@ -26,12 +26,12 @@
 }
 
 .qualification__active {
-    color: var(--title-color-dark);
+    color: var(--ten);
 }
 
 .qualification__sections {
     display: grid;
-    grid-template-columns: 0.5fr;
+    grid-template-columns: initial;
     justify-content: center;
 }
 
